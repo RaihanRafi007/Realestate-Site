@@ -1,37 +1,3 @@
-Skip to content
-Search or jump to…
-Pulls
-Issues
-Codespaces
-Marketplace
-Explore
- 
-@RaihanRafi007 
-linkedweb
-/
-realest_estate
-Public
-Fork your own copy of linkedweb/realest_estate
-Code
-Issues
-Pull requests
-Discussions
-Actions
-Projects
-Security
-Insights
-realest_estate/.gitignore
-@brkicb
-brkicb first commit
-Latest commit 6849a2d on Jan 5, 2021
- History
- 1 contributor
-140 lines (112 sloc)  2.11 KB
-
-
-# Created by https://www.gitignore.io/api/react,django
-# Edit at https://www.gitignore.io/?templates=react,django
-
 ### Django ###
 *.log
 *.pot

@@ -1,3 +1,7 @@
+
+# Created by https://www.gitignore.io/api/react,django
+# Edit at https://www.gitignore.io/?templates=react,django
+
 ### Django ###
 *.log
 *.pot
@@ -134,18 +138,3 @@ thumb
 sketch
 
 # End of https://www.gitignore.io/api/react,django
-Footer
-© 2023 GitHub, Inc.
-Footer navigation
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
-realest_estate/.gitignore at main · linkedweb/realest_estate
